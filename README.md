@@ -1,3 +1,3 @@
 # ethereum-address-decoder
 
-``go run main.gog``
+``go run main.go``
